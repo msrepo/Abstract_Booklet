@@ -1,0 +1,210 @@
+\documentclass[12pt]{book}
+
+\usepackage[a4paper,margin=3cm,innermargin=3cm]{geometry}
+\usepackage{import}
+\usepackage{lipsum}
+\usepackage{needspace}
+\usepackage{marginnote}
+\usepackage{titling}
+\usepackage{titlesec}
+\usepackage[pdftex]{graphicx}
+\graphicspath{{../pdf/}{../jpeg/}{./image/}} 
+\renewcommand*{\marginfont}{\sffamily\footnotesize}
+
+\usepackage{imakeidx}
+\usepackage{hyperref}
+\makeindex[intoc]
+\newcommand{\chapterformatDefault}{
+	\titleformat{\chapter}[display]
+	{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+}
+\newcommand{\chapterformatBatchSeperator}{
+	\titleformat{name = \chapter}[display]
+	{\normalfont\Large\filcenter\sffamily}
+	{\vspace*{\fill}
+		\titlerule[1pt]%
+		\vspace{1pt}%
+		\titlerule
+		\vspace{1pc}%
+		\LARGE\MakeUppercase{\chaptertitlename}~\thechapter}
+	{1pc}
+	{\titlerule\Huge}
+	[\vspace*{\fill}\newpage]
+}
+\newenvironment{conf-abstract}[4][]{
+  \needspace{10\baselineskip}
+  \begin{center}
+    { \renewcommand\textsuperscript[1]{}
+      \phantomsection\addcontentsline{toc}{section}
+      {\texorpdfstring{#2 (\emph{#3})}{#2  (#3)}}
+    }
+    {{\large\bfseries #2}\marginnote{#1}\par}
+    \medskip
+    {#3\par}
+    \smallskip
+    {\small #4\par}
+  \end{center}
+}{%
+  \bigskip
+  \hrule
+  \bigskip
+}
+
+\usepackage{etoolbox}
+\newcommand{\indexauthors}[1]{%
+  \forcsvlist{\index}{#1}
+}
+
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{-1}
+\pagestyle{plain}
+
+
+\pretitle{%
+	\begin{center}
+		\LARGE
+		\includegraphics[height=150pt]{"GCES logo2"}\\[\bigskipamount]
+	}
+	\posttitle{\end{center}}
+\title{2017 Abstract Booklet}
+\author{Lamachaur, Pokhara}
+
+
+
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\input{keynote}
+\tableofcontents
+
+\mainmatter
+\pagestyle{headings}
+\chapterformatBatchSeperator
+
+\chapter[Earlier Batch]{Batch of 2001-2010 Abstracts}
+\subimport{./remaining/}{"Adaptive web site"}
+\subimport{./remaining/}{anonlinepolicediary}
+\subimport{./remaining/}{CHAMELEON}
+\subimport{./remaining/}{Databasesynchronizationthroughe-mail}
+\subimport{./remaining/}{"Desktop Video"}
+\subimport{./remaining/}{easywebcms}
+\subimport{./remaining/}{"E-BIDDING"}
+\subimport{./remaining/}{"E-BUDGETING"}
+\subimport{./remaining/}{"Electronic Medical Record"}
+\subimport{./remaining/}{"entranceresultgenerator"}
+\subimport{./remaining/}{"e-thrive"}
+\subimport{./remaining/}{"gcesmessenger"}
+\subimport{./remaining/}{"Gcesnepalitexttospeechsynthesizer"}
+\subimport{./remaining/}{"GESTURE RECOGNITION AND PROCESSING"}
+\subimport{./remaining/}{"hairstyle"}
+\subimport{./remaining/}{"imagecrawlee"}
+\subimport{./remaining/}{"Kurakani"}
+\subimport{./remaining/}{"Massmailingsystem"}
+\subimport{./remaining/}{"Meaningtowordsdictionary"}
+\subimport{./remaining/}{"Nepali OCR"}
+\subimport{./remaining/}{"Nepaliparser-chunker"}
+\subimport{./remaining/}{"Nepali-tts"}
+\subimport{./remaining/}{"newshunt"}
+\subimport{./remaining/}{"OnlineCriminalRecordManagementSystem"}
+\subimport{./remaining/}{"pancheebajaa"}
+\subimport{./remaining/}{"ParallelProcessingandDistributedComputing"}
+\subimport{./remaining/}{"Pathshala"}
+\subimport{./remaining/}{"PROMOTINGBUSINESSINNEPAL"}
+\subimport{./remaining/}{"Ramailokurakani"}
+\subimport{./remaining/}{"ramrodeal"}
+\subimport{./remaining/}{"Sanjaal"}
+\subimport{./remaining/}{"Sustainable"}
+\subimport{./remaining/}{"SYSTEMATIC ANALYSIS AND PARSE TREE GENERATOR"}
+\subimport{./remaining/}{"tvshowbuzz"}
+\subimport{./remaining/}{"UniversityRegistrationSystem"}
+\subimport{./remaining/}{"videoconferencing"}
+\subimport{./remaining/}{"voiceoverinternetprotocol"}
+
+
+\chapter[Batch of 2011]{Batch of 2011 Abstracts}
+ 
+ %Specify conf-abstract like this:
+ \begin{conf-abstract}
+ {Beauty Product Recommendation System}
+ {Bidur Subedi
+ 	Bibek KC
+ 	Mahesh Bahadur    Thapa
+ 	Niranjan Udas
+ 	%(use \textsuperscript as institution markers)
+ }
+{}
+ %{Institutions (use \textsuperscript as institution markers)}
+% \indexauthors{Subedi ! Bidur, 
+% 	 KC ! Bibek,
+% 	 Thapa!Mahesh Bahadur,
+% 	 Udas!Niranjan}
+
+   \indexauthors{  Bidur Subedi,
+   	Bibek KC,
+   	Mahesh Bahadur Thapa,
+   	Niranjan Udas}
+ Beauty sections of departmental stores are filled with a variety of products of various brands that promises a lot of beauty enhancements. People looking for suitable product to use often get intimidated by the number of choices they have. In order to help in that scenario, the beauty product recommendation system recommends products based on user's beauty profile and preferences. It also takes into account the preference of users with similar beauty profile. The recommendation system is currently limited to Moisturizers.
+ \end{conf-abstract}
+%
+% It's probably best to generate the abstracts from a 
+% database or something via a script. Don't forget to
+% check through for any special characters that need to
+% be escaped.
+\input{BudgetVisualizationandAnalysisTool}
+\input{ChaseMe}
+\input{DrivingLicenseManagement}
+\input{E-Commerce}
+\input{EPISODERecommender}
+\input{ExposeNepal}
+\input{HistoricNepal}
+\input{Mentor}
+\input{NepaliAdsense}
+
+
+\chapter[Batch of 2012]{Batch of 2012 Abstracts}
+\subimport{./2012/}{"Accounting for inventory and sales management system"}
+\subimport{./2012/}{"AI Enabled Chatbot"}
+\subimport{./2012/}{"Analysis on Recommendation System"}
+\subimport{./2012/}{"BADS"}
+\subimport{./2012/}{"Clinic Aid"}
+\subimport{./2012/}{"Farmer Market"}
+\subimport{./2012/}{"GHAR JAGGA"}
+\subimport{./2012/}{NepaliMade}
+\subimport{./2012/}{"Online Patient Portal"}
+\subimport{./2012/}{"OUTSOURCING NEPAL"}
+\subimport{./2012/}{"Portfolio Management"}
+
+
+
+\chapter[Batch of 2013]{Batch of 2013 Abstracts}
+\subimport{./2015/}{"AYO GORKHALI"}
+\subimport{./2015/}{BikeRentalSystem}
+\subimport{./2015/}{CarRush}
+\subimport{./2015/}{"ColzMS"}
+\subimport{./2015/}{eTaxiService}
+\subimport{./2015/}{"GCES CRM"}
+\subimport{./2015/}{"Lavender Hospital Management System"}
+\subimport{./2015/}{LocalGovernanceInformationSystem}
+\subimport{./2015/}{MazeVR}
+\subimport{./2015/}{Pharmex}
+\subimport{./2015/}{RoutesNepal}
+\subimport{./2015/}{"Survival Shooting"}
+\subimport{./2015/}{Zyaala}
+%\subimport{./2015/}{Zyaala}
+%\subimport{./2015/}{Zyaala}
+%\subimport{./2015/}{Zyaala}
+
+
+
+\backmatter
+\chapterformatDefault
+\pagestyle{plain}
+\renewcommand{\indexname}{Author Index}
+\printindex
+
+
+\end{document}
