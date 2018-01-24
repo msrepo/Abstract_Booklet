@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.30)  10 JAN 2018 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.30)  24 JAN 2018 12:29
 entering extended mode
 **./document.tex
 (document.tex
@@ -664,7 +664,7 @@ Package marginnote Info: xpos seems to be 382.59883pt,
 ("remaining/SYSTEMATIC ANALYSIS AND PARSE TREE GENERATOR.tex"
 Package marginnote Info: Margin note 29.2 is on absolute page 29
 (marginnote)              on input line 8.
-Package marginnote Info: xpos seems to be 466.70879pt,
+Package marginnote Info: xpos seems to be 460.36378pt,
 (marginnote)             \marginnoterightadjust ignored on input line 8.
 )
 (remaining/tvshowbuzz.tex [15]
@@ -691,23 +691,23 @@ Package marginnote Info: xpos seems to be 402.03716pt,
 (marginnote)             \marginnoterightadjust ignored on input line 9.
 ) [17] [18
 
-] [19]
+] [19] (2011/beautyproductrecommend.tex
 Package marginnote Info: Margin note 34.1 is on absolute page 34
-(marginnote)              on input line 156.
+(marginnote)              on input line 9.
 Package marginnote Info: xpos seems to be 447.84877pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 156.
- (BudgetVisualizationandAnalysisTool.tex
+(marginnote)             \marginnoteleftadjust ignored on input line 9.
+)
+(2011/BudgetVisualizationandAnalysisTool.tex
 Package marginnote Info: Margin note 34.2 is on absolute page 34
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 442.0846pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 7.
-) (ChaseMe.tex
+) (2011/ChaseMe.tex
 Package marginnote Info: Margin note 34.3 is on absolute page 34
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 334.01141pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 7.
-
-[20]
+ [20]
 Overfull \hbox (0.57782pt too wide) in paragraph at lines 20--21
 []\OT1/cmr/m/n/12 3.1.anyone who is on-line(other play-ers who are cur-rrently 
 avail-able for the game):-
@@ -729,12 +729,13 @@ Missing character: There is no œ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
-) (E-Commerce.tex [21]
+) (2011/E-Commerce.tex [21]
 Package marginnote Info: Margin note 36.1 is on absolute page 36
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 344.47057pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 7.
-) (EPISODERecommender.tex
+)
+(2011/EPISODERecommender.tex
 Package marginnote Info: Margin note 36.2 is on absolute page 36
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 388.14055pt,
@@ -748,31 +749,31 @@ Missing character: There is no ¢ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ¢ in font cmr12!
-) (ExposeNepal.tex [22]
+) (2011/ExposeNepal.tex [22]
 Package marginnote Info: Margin note 37.1 is on absolute page 37
 (marginnote)              on input line 8.
 Package marginnote Info: xpos seems to be 350.12805pt,
 (marginnote)             \marginnoterightadjust ignored on input line 8.
-) (HistoricNepal.tex
+)
+(2011/HistoricNepal.tex
 Package marginnote Info: Margin note 37.2 is on absolute page 37
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 353.00723pt,
 (marginnote)             \marginnoterightadjust ignored on input line 7.
-) (Mentor.tex
+) (2011/Mentor.tex
 Package marginnote Info: Margin note 37.3 is on absolute page 38
 (marginnote)              on input line 6.
 Package marginnote Info: xpos seems to be 324.91641pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 6.
- [23])
-(NepaliAdsense.tex
+ [23]) (2011/NepaliAdsense.tex
 Package marginnote Info: Margin note 38.1 is on absolute page 38
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 353.31891pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 7.
-) [24] [25
+)
+[24] [25
 
-]
-("2012/Accounting for inventory and sales management system.tex"
+] ("2012/Accounting for inventory and sales management system.tex"
 Package marginnote Info: Margin note 40.1 is on absolute page 40
 (marginnote)              on input line 7.
 Package marginnote Info: xpos seems to be 500.73119pt,
@@ -1105,20 +1106,20 @@ Missing character: There is no ¨ in font cmr12!
 
 
 ] [42])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
  [43]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
  (document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 43114CC2C872FCDB9842452BA17ECA3D;9086.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
+(rerunfilecheck)             Checksum: E00A7612AB97DE22F0B72BD25A41F74B;9084.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 7464 strings out of 493323
- 110007 string characters out of 3139069
- 316576 words of memory out of 3000000
+ 7469 strings out of 493323
+ 110183 string characters out of 3139069
+ 317576 words of memory out of 3000000
  10543 multiletter control sequences out of 15000+200000
  12247 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1132,7 +1133,7 @@ nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 sfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on document.pdf (57 pages, 1997572 bytes).
+Output written on document.pdf (57 pages, 1997579 bytes).
 PDF statistics:
  970 PDF objects out of 1000 (max. 8388607)
  139 named destinations out of 1000 (max. 500000)

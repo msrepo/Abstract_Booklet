@@ -32,7 +32,7 @@
 \contentsline {section}{Ramrodeal (\emph { Aashish Gurung Sadip Acharya Suyog Rajbhandari })}{14}{section*.35}
 \contentsline {section}{Sanjaal (\emph { Ajit Kunwar Deepak Singh Thapa Mahesh Gurung Sujan Tamrakar })}{14}{section*.36}
 \contentsline {section}{Sustainable Agriculture (\emph { Gaurab Subedi Nisha Pariyar Ram Chandra Poudel Rishi Saran Khanal })}{15}{section*.37}
-\contentsline {section}{Systematic Analysis And Parse Tree Generator (\emph { Mina Thapa Mohan K.C. Sandhya Koirala })}{15}{section*.38}
+\contentsline {section}{Semantic Analysis And Parse Tree Generator (\emph { Mina Thapa Mohan K.C. Sandhya Koirala })}{15}{section*.38}
 \contentsline {section}{TV Show Buzz (\emph {Ashok Thapa Bil Bahadur Gurung Biswajit Nepali Kedar Adhikari})}{16}{section*.39}
 \contentsline {section}{University Registration System (\emph { Aashis Binod Khanal Binod Shrestha Nikita Pradhan Vikal Acharya })}{16}{section*.40}
 \contentsline {section}{Video Conferencing in LAN (\emph { Amrit Dahal Chandra Karki Sujan Adhikari })}{16}{section*.41}
