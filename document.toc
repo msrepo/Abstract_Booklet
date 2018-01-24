@@ -1,0 +1,77 @@
+\contentsline {chapter}{Foreword From The Principal}{v}{chapter*.2}
+\contentsline {chapter}{Keynote Address From The Vice Principal}{vii}{chapter*.3}
+\contentsline {chapter}{Earlier Batch}{1}{chapter*.6}
+\contentsline {section}{Adaptive Website (\emph { Sanjay C.K. })}{2}{section*.7}
+\contentsline {section}{An Online Police Diary (\emph { Dam Bahadur Paija Dasari Joshua Rahul Panjiyar Umesh Gurung })}{2}{section*.8}
+\contentsline {section}{Chameleon (\emph { Binod Khatri Sambhu Sai Sumit Shrestha Yam Bahadur Gurung })}{2}{section*.9}
+\contentsline {section}{Database Synchronization Through E-mail (\emph { Suman Jojiju Ramesh Thapa Rajan Adhikari Amit Kumar Sahani Kewat })}{3}{section*.10}
+\contentsline {section}{Desktop Video Conferencing (\emph { Manita Gurung Nirmala Gurung Shanti Thapa })}{3}{section*.11}
+\contentsline {section}{Easy Web CMS (\emph { Bijay Baniya Sunil Koirala Sushil Sapkota Tilak Shrees Rana })}{4}{section*.12}
+\contentsline {section}{E-Bidding (\emph { Dinesh Bhandari Subash Adhikari Roshan Adhikari })}{4}{section*.13}
+\contentsline {section}{E-budgeting (\emph { Dipesh Thapa Ganesh Bhattarai Manoj Gautam Pradeep Acharya })}{5}{section*.14}
+\contentsline {section}{Electronic Medical Record (\emph { Anisha Kumari Bataju Bigyan Thapa Bijay Neupane Ramesh Baral })}{5}{section*.15}
+\contentsline {section}{Entrance Result Generator (\emph { Manish Gurung Santosh Sharma })}{6}{section*.16}
+\contentsline {section}{E-thrive (\emph { Roshan Koirala Samjhana Gautam })}{6}{section*.17}
+\contentsline {section}{GCES Messenger (\emph { Bishal Maskey Nabin Lamichhane })}{6}{section*.18}
+\contentsline {section}{GCES Nepali Text To Speech Synthesizer (\emph { Bikram Lal Shrestha Sanjeev Ghimire Amit Shrestha })}{7}{section*.19}
+\contentsline {section}{Gesture Recognition And Processing (\emph { Ashok Subedi Hari Prasad Khanal Shankar Dev Adhikari })}{7}{section*.20}
+\contentsline {section}{Hairstyle Matching Software (\emph { Samira Lamichhane Sangita Gurung Sumita Gurung })}{8}{section*.21}
+\contentsline {section}{Image Crawlee (\emph { Anil Adhikari Niranjan Acharya Prajwal Koirala Kshitiz Shrestha })}{8}{section*.22}
+\contentsline {section}{Kurakani (\emph { Jeevan Gurung Sameer Gurung Sumit Kumar Kashyap Sunil Thapa })}{8}{section*.23}
+\contentsline {section}{Meaning To Words Dictionary (\emph { Bijay Chandra Koirala Ashish Kumar Gurung Maheshwor G.C. })}{9}{section*.24}
+\contentsline {section}{Nepali OCR (\emph { Bishnu Thapa Manoj Adhikari Nishan Hitang })}{9}{section*.25}
+\contentsline {section}{Nepali Parser - Chunker (\emph { Muna Khadka Ramesh Raj Baral Shakeel Shrestha })}{10}{section*.26}
+\contentsline {section}{Nepali-TTS (\emph { Bikash Bhattarai Prativa Nyaupane Suraj Subedi Suku Kumar Nepali })}{10}{section*.27}
+\contentsline {section}{NewsHunt (\emph {Nirmal Koirala Rabindra Gautam Ranjan Adhikari Saroj Subedi})}{11}{section*.28}
+\contentsline {section}{Online Criminal Record Management System (\emph { Radhika Bista Narayan Koirala })}{11}{section*.29}
+\contentsline {section}{Pancheebajaa.com (\emph { Bijen Hirachen Dil Bahadur Thapa Sandip Adhikari })}{11}{section*.30}
+\contentsline {section}{Parallel Processing and Distributed Computing (\emph { Prashanta Poudel Uttam Bhandarai Jenish Sthapit })}{12}{section*.31}
+\contentsline {section}{Pathshala (E-Learning) (\emph { Andrew Gurung Jeevan Timilsina })}{12}{section*.32}
+\contentsline {section}{Promoting Business in Nepal (\emph { Eliza Gautam Prashamsha Devkota Laxman Gurung Sushil Gautam })}{13}{section*.33}
+\contentsline {section}{Ramailokurakani.com (\emph { Anil Bhattari Bhim Prasad Ale Pradeep Gautam })}{13}{section*.34}
+\contentsline {section}{Ramrodeal (\emph { Aashish Gurung Sadip Acharya Suyog Rajbhandari })}{14}{section*.35}
+\contentsline {section}{Sanjaal (\emph { Ajit Kunwar Deepak Singh Thapa Mahesh Gurung Sujan Tamrakar })}{14}{section*.36}
+\contentsline {section}{Sustainable Agriculture (\emph { Gaurab Subedi Nisha Pariyar Ram Chandra Poudel Rishi Saran Khanal })}{15}{section*.37}
+\contentsline {section}{Systematic Analysis And Parse Tree Generator (\emph { Mina Thapa Mohan K.C. Sandhya Koirala })}{15}{section*.38}
+\contentsline {section}{TV Show Buzz (\emph {Ashok Thapa Bil Bahadur Gurung Biswajit Nepali Kedar Adhikari})}{16}{section*.39}
+\contentsline {section}{University Registration System (\emph { Aashis Binod Khanal Binod Shrestha Nikita Pradhan Vikal Acharya })}{16}{section*.40}
+\contentsline {section}{Video Conferencing in LAN (\emph { Amrit Dahal Chandra Karki Sujan Adhikari })}{16}{section*.41}
+\contentsline {section}{Voice Over Internet Protocol (\emph { Binod Shrestha Ghanashyam Subedi Mahadev Adhikari Roshan Gurung })}{17}{section*.42}
+\contentsline {chapter}{Batch of 2011}{19}{chapter*.43}
+\contentsline {section}{Beauty Product Recommendation System (\emph {Bidur Subedi Bibek KC Mahesh Bahadur Thapa Niranjan Udas })}{20}{section*.44}
+\contentsline {section}{Budget Visualization and Analysis Tool (\emph {Prabesh Shrestha Sushil Ale Sushil GC })}{20}{section*.45}
+\contentsline {section}{Chase Me (\emph {Drishya Thapa Sukmit Thapa Joshila Joshi })}{20}{section*.46}
+\contentsline {section}{Driving License Management (\emph {Laxmi Gurung Shrijana Thapa Chettri Sulochana Bhujel })}{21}{section*.47}
+\contentsline {section}{E-Commerce (\emph {Sujan Thapa Achyut Dhewajoo Subash Thapa })}{22}{section*.48}
+\contentsline {section}{``Episode" Recommender (\emph {Sudip Dawadi Suyog K.C Saroj Pandey })}{22}{section*.49}
+\contentsline {section}{Expose Nepal (\emph {Bijay Poudel Binod Gurung Samman Gurung Santosh Gurung })}{23}{section*.50}
+\contentsline {section}{Historic Nepal (\emph {Ghan Bahadur Thapa Mukesh Bhattarai Safal Adhikari })}{23}{section*.51}
+\contentsline {section}{Mentor (\emph {Mitab Shrestha Bibek Sigdel })}{24}{section*.52}
+\contentsline {section}{Nepali Adsense (\emph {B. K. Krishna Magar Milan Adhikari Sushil Timilsina })}{24}{section*.53}
+\contentsline {chapter}{Batch of 2012}{25}{chapter*.54}
+\contentsline {section}{Accounting for Inventory and Sales Management System (\emph { Ganesh Pandey Nishal Gurung Pratima Sharma })}{26}{section*.55}
+\contentsline {section}{AI Enabled Chatbot (\emph {Anjana Sharma Bijaya Parajuli Luzan Baral Nishma Shrestha })}{26}{section*.56}
+\contentsline {section}{Analysis on Recommendation System (\emph { Aatish Sai Anup Acharya Deepti Baral Sagar Serchan })}{27}{section*.57}
+\contentsline {section}{BADS: Detecting APK Malicious Behavior through Static Analysis (\emph { Sudeep Acharya Mohan Gautam })}{27}{section*.58}
+\contentsline {section}{Clinic Aid (\emph { Sagar Subedi Santosh Sharma Sailesh Acharya Sudip Dhakal })}{28}{section*.59}
+\contentsline {section}{Farmer Market (\emph {Anup Sharma Samit Sherchan Bikky Bhujel Subash Chalise })}{28}{section*.60}
+\contentsline {section}{Ghar Jagga (\emph { Rabin Senchuri Bijay Gurung Abhishek Poudel Chhetri  Prameet Bhakta Acharya })}{29}{section*.61}
+\contentsline {section}{NepaliMade (\emph {Bibek Kumar Gupta Paras Bhujhel Saroj G.T. Sijan Shrestha })}{29}{section*.62}
+\contentsline {section}{Online Patient Portal (\emph {Aayush Thapa Biraj Bhandari Bishal Giri Deepak Poudel })}{30}{section*.63}
+\contentsline {section}{Outsourcing Nepal (\emph { Mahesh Prasad Josi Rahul Subedi Rajan Lamsal Top Kumar Purja })}{31}{section*.64}
+\contentsline {section}{Portfolio Management (\emph { Anuj Thapa Aruna Chatkuli Amir Banstola Sagar Koirala })}{31}{section*.65}
+\contentsline {chapter}{Batch of 2013}{33}{chapter*.66}
+\contentsline {section}{Ayo Gorkhali (\emph {Bishal Pun Siddhant Pageni Susan K.C. })}{34}{section*.67}
+\contentsline {section}{Bike Rental System (\emph {Pratikshya Shrestha Amrit Poudel })}{34}{section*.68}
+\contentsline {section}{Car rush (\emph {Nabina Subedi Rojina Thapa })}{35}{section*.69}
+\contentsline {section}{ColzMS (\emph {Manoj Pahari Rajat Thapa Ujjwal Panta })}{35}{section*.70}
+\contentsline {section}{eTaxi Service (\emph {Aashim Bajracharya Jharana Gurung })}{36}{section*.71}
+\contentsline {section}{CRM (\emph {Sushma Bhandari Sandip Sapkota Tahira Urusha Niroula })}{37}{section*.72}
+\contentsline {section}{Lavender Hospital Management System (\emph {Abhishek KC Dudhraj Parajuli Sudip Tripathi })}{37}{section*.73}
+\contentsline {section}{Local Governance Information System (LGIS) (\emph {Aashish Adhikari Binod Timilsina Bibek Shahi })}{38}{section*.74}
+\contentsline {section}{MazeVR (\emph {Bijay Acharya Pravesh Giri Sangam GC })}{38}{section*.75}
+\contentsline {section}{Pharmex (\emph {Shovan Shrestha Shiraj Pradhanang })}{39}{section*.76}
+\contentsline {section}{Routes Nepal (\emph {Bhuwan Paudel Bimal Sharma Yuvraj Shrestha })}{39}{section*.77}
+\contentsline {section}{Survival Shooting (\emph {Beenod Baniya Ujwal Jamarkattel })}{40}{section*.78}
+\contentsline {section}{Zyaala (\emph {Sparsh Shrestha Swatantra Dhakal Upakar Poudel })}{40}{section*.79}
+\contentsline {chapter}{Author Index}{41}{section*.80}

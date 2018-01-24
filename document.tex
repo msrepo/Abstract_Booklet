@@ -5,6 +5,7 @@
 \usepackage{lipsum}
 \usepackage{needspace}
 \usepackage{marginnote}
+\usepackage{multicol}
 \usepackage{titling}
 \usepackage{titlesec}
 \usepackage[pdftex]{graphicx}
@@ -13,6 +14,20 @@
 
 \usepackage{imakeidx}
 \usepackage{hyperref}
+
+
+% Prints the month name (e.g., January) and the year (e.g., 2008)
+\newcommand{\monthyear}{%
+	\ifcase\month\or January\or February\or March\or April\or May\or June\or
+	July\or August\or September\or October\or November\or
+	December\fi\space\number\year
+}
+\newcommand{\keepvalues}{%
+	\edef\restorevalues{%
+		\parindent=\the\parindent
+		\parskip=\the\parskip
+	}%
+}
 \makeindex[intoc]
 \newcommand{\chapterformatDefault}{
 	\titleformat{\chapter}[display]
@@ -77,8 +92,10 @@
 \frontmatter
 
 \maketitle
-
+\input{copyrightpage}
+\input{foreword_principal}
 \input{keynote}
+\input{acknowledgement}
 \tableofcontents
 
 \mainmatter
@@ -103,7 +120,7 @@
 \subimport{./remaining/}{"hairstyle"}
 \subimport{./remaining/}{"imagecrawlee"}
 \subimport{./remaining/}{"Kurakani"}
-\subimport{./remaining/}{"Massmailingsystem"}
+%\subimport{./remaining/}{"Massmailingsystem"}
 \subimport{./remaining/}{"Meaningtowordsdictionary"}
 \subimport{./remaining/}{"Nepali OCR"}
 \subimport{./remaining/}{"Nepaliparser-chunker"}
