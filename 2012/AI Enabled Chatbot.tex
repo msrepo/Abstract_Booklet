@@ -11,16 +11,16 @@
   	Bijaya Parajuli,
   	Luzan Baral,
   	Nishma Shrestha}
-This project is a human-computer dialog system for GCES Reception which can replace the work of human-receptionist for basic conversational queries interaction. Replies of this system is based on two different knowledge base, for queries related to student records (billings) it uses database, while for other general queries it uses XML files that contains patterns of questions and answers. The user interface is simplified for the users that they do not have to input complex commands. The system accepts queries made on the standard English language. Raw inputs for chat request are normalized to find the keyword if related to student records, if not then algorithm for pattern matching is used to search replies inside the XML files.
+This project is a human-computer dialog system for GCES Reception which can replace the work of human-receptionist for basic conversational queries interaction. Replies of this system are based on two different knowledge base, for queries related to student records (billings) it uses a database, while for other general queries it uses XML files that contain patterns of questions and answers. The user interface is simplified for the users that they do not have to input complex commands. The system accepts queries made in the standard English language. Raw inputs for chat request are normalized to find the keyword if it is related to student records, if not then the algorithm for pattern matching is used to search replies inside the XML files.
 
-1.	To develop a database where all the relevant information about questions, answers, keywords and logs will be stored.
+1.    To develop a database where all the relevant information about questions, answers, keywords, and logs will be stored.
 
-2.	To develop a keyword matching algorithm and a string distance comparison algorithm and combine them in order to retrieve the best possible replies.
+2.    To develop a keyword matching algorithm and a string distance comparison algorithm and combine them in order to retrieve the best possible replies.
 
-Two major algorithm were implemented on this project.
+Two major algorithms were implemented on this project.
 \\
  Algorithm 1, Keyword filtering which works to find the pre-defined keywords from the knowledge base(database) and 
  \\
- Algorithm 2, Pattern matching works to relate the user input to the patterns present on knowledge base (XML Files), and generate template outputs. The bot engine is implemented as library so it can be easily implemented in any .NET based application like Web, Desktop and Mobile Application.
+ Algorithm 2, Pattern matching works to relate the user input to the patterns present in the knowledge base (XML Files), and generate template outputs. The bot engine is implemented as a library so it can be easily implemented in any .NET based application like Web, Desktop and Mobile Application.
 
  \end{conf-abstract}
